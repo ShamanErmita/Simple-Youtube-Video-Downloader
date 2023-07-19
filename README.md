@@ -1,6 +1,6 @@
 # Simple-Youtube-Video-Downloader
 ## Description
-### Just a simple python file to download youtube videos
+### Just a simple python script to download youtube videos
 
 ## Usage
   ```sh
